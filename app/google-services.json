@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "279052409549",
+    "project_id": "note-app-freagment",
+    "storage_bucket": "note-app-freagment.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:279052409549:android:330ee2226526ef30ad2784",
+        "android_client_info": {
+          "package_name": "com.example.noteappfreagment"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "279052409549-64ch8tmmukh4p2dathso4gqb4olgplvm.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBp9Vhhfwh0gFxkQpGFhXk7LIWO1pZaqwY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "279052409549-64ch8tmmukh4p2dathso4gqb4olgplvm.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
